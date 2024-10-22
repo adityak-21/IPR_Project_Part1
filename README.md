@@ -71,6 +71,8 @@ The dataset for this project can be accessed via the following Google Drive link
 - **IR Images**: Located in the same directories, named as `*_ir.png`.
 - **Annotations**: Text files in the `labels-Aditya/train` and `labels-Aditya/val` directories, named as `*.txt`.
 
+Place the images-Aditya and labels-Aditya folders into your repo folder.
+
 Each annotation file should be formatted as follows:
 
 <class_id> <x_center> <y_center> <width.> <height.>
