@@ -72,6 +72,7 @@ The dataset for this project can be accessed via the following Google Drive link
 - **Annotations**: Text files in the `labels-Aditya/train` and `labels-Aditya/val` directories, named as `*.txt`.
 
 Place the images-Aditya and labels-Aditya folders into your repo folder.
+Please ensure inside images-Aditya folder there is an images folder and inside labels-Aditya a labels folder.
 
 Each annotation file should be formatted as follows:
 
