@@ -29,8 +29,8 @@ Follow these steps to set up the environment and install the necessary dependenc
 Clone the repository to your local machine using:
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/adityak-21/IPR_Project_Part1.git
+cd IPR_Project_Part1
 ```
 
 ### Step 2: Install YOLOv5 Manually
@@ -62,9 +62,14 @@ scikit-learn
 ```
 ## 3. Dataset Structure
 
-- **RGB Images**: Located in the `images/train` and `images/val` directories, named as `*_co.png`.
+The dataset for this project can be accessed via the following Google Drive link:
+
+[Download Dataset](https://drive.google.com/drive/folders/1YahvxSMhJgYLghfVRHImVsp8ErTn5Xsh?usp=sharing)
+
+
+- **RGB Images**: Located in the `images-Aditya/train` and `images-Aditya/val` directories, named as `*_co.png`.
 - **IR Images**: Located in the same directories, named as `*_ir.png`.
-- **Annotations**: Text files in the `labels/train` and `labels/val` directories, named as `*.txt`.
+- **Annotations**: Text files in the `labels-Aditya/train` and `labels-Aditya/val` directories, named as `*.txt`.
 
 Each annotation file should be formatted as follows:
 
